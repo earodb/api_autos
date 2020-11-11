@@ -1,0 +1,13 @@
+
+
+{
+	"conexion":{
+		"server" : "localhost",
+		"user" : "root",
+		"password" : "",
+		"database" : "deposito_autos",
+		"port" : "3306"
+	}
+}
+
+
